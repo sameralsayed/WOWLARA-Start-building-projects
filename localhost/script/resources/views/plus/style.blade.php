@@ -1,0 +1,1 @@
+@if(!Auth::guest()){{ Auth::user()->favorite_design }}@else{{$get->style}}@endif

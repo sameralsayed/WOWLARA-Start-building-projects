@@ -1,0 +1,175 @@
+.logo-upload {
+  position: relative;
+  max-width: 100%;
+  margin: 5px auto;
+}
+.logo-upload .logo-edit {
+  position: absolute;
+  right: 12px;
+  z-index: 1;
+  top: 10px;
+}
+.logo-upload .logo-edit input {
+  display: none;
+}
+.logo-upload .logo-edit input + label {
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 0;
+  border-radius: 100%;
+  background: #FFFFFF;
+  border: 1px solid transparent;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  font-weight: normal;
+  transition: all 0.2s ease-in-out;
+}
+.logo-upload .logo-edit input + label:hover {
+  background: #f1f1f1;
+  border-color: #d6d6d6;
+}
+.logo-upload .logo-edit input + label:after {
+  content: "\F040";
+  font-family: 'FontAwesome';
+  color: #757575;
+  position: absolute;
+  top: 5px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+.logo-upload .logo-preview {
+  width: 100%;
+  height: 192px;
+  position: relative;
+  border-radius: 5px;
+  border: 6px solid #F8F8F8;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+}
+.logo-upload .logo-preview > div {
+  width: 100%;
+  height: 180px;
+  border-radius: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.image-upload {
+  position: relative;
+  max-width: 100%;
+  margin: 5px auto;
+}
+.image-upload .image-edit {
+  position: absolute;
+  right: 12px;
+  z-index: 1;
+  top: 10px;
+}
+.image-upload .image-edit input {
+  display: none;
+}
+.image-upload .image-edit input + label {
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 0;
+  border-radius: 100%;
+  background: #FFFFFF;
+  border: 1px solid transparent;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  font-weight: normal;
+  transition: all 0.2s ease-in-out;
+}
+.image-upload .image-edit input + label:hover {
+  background: #f1f1f1;
+  border-color: #d6d6d6;
+}
+.image-upload .image-edit input + label:after {
+  content: "\F040";
+  font-family: 'FontAwesome';
+  color: #757575;
+  position: absolute;
+  top: 5px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+.image-upload .image-preview {
+  width: 100%;
+  height: 192px;
+  position: relative;
+  border-radius: 5px;
+  border: 6px solid #F8F8F8;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.1);
+}
+.image-upload .image-preview > div {
+  width: 150px;
+  height: 150px;
+  border-radius: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+  .icons-icon-upload {
+  position: relative;
+  max-width: 100%;
+  margin: 5px auto;
+}
+.icons-icon-upload .icons-icon-edit {
+  position: absolute;
+  right: 12px;
+  z-index: 1;
+  top: 10px;
+}
+.icons-icon-upload .icons-icon-edit input {
+  display: none;
+}
+.icons-icon-upload .icons-icon-edit input + label {
+  display: inline-block;
+  width: 34px;
+  height: 34px;
+  margin-bottom: 0;
+  border-radius: 100%;
+  background: #FFFFFF;
+  border: 1px solid transparent;
+  box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
+  font-weight: normal;
+  transition: all 0.2s ease-in-out;
+}
+.icons-icon-upload .icons-icon-edit input + label:hover {
+  background: #f1f1f1;
+  border-color: #d6d6d6;
+}
+.icons-icon-upload .icons-icon-edit input + label:after {
+  content: "\F040";
+  font-family: 'FontAwesome';
+  color: #757575;
+  position: absolute;
+  top: 5px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  margin: auto;
+}
+.icons-icon-upload .icons-icon-preview {
+  width: 100%;
+  height: 192px;
+  position: relative;
+  border-radius: 5px;
+}
+.icons-icon-upload .icons-icon-preview > div {
+    width: 70px;
+    height: 70px;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 100%;
+}
