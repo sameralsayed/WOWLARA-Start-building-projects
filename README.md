@@ -2,7 +2,7 @@
 # Creating projects has become easier than ever
 Small or even large projects, you can now create them easily.
 
-[Buy playback files](https://payhip.com/b/fj0o4)
+[Buy playback file](https://payhip.com/b/fj0o4)
 
 # basic features
 * real time data
